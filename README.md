@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Cheolhyeon's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=300&section=header&text=Cheolhyeon's%20GitHub&fontSize=60)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)](https://github.com/kkcchh9999/github-readme-stats)
 
