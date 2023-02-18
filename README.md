@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=FF99CC&height=150&section=header&text=Cheolhyeon's%20GitHub&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9999&height=150&section=header&text=Cheolhyeon's%20GitHub&fontSize=60)
 
   <br>
   <h1>✨ CHEOLHYEON KWON ✨</h1>
