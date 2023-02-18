@@ -4,9 +4,18 @@
 
   <br>
   <h1>✨ CHEOLHYEON KWON ✨</h1>
+</div>
+
+<div align="left">
+  <h4>Thanks for visiting</h4>
+  <h4>Computer Engineering, ChangWon National University (2017.03~2023.02)</h4>
+  <h4>Noslab, Changwon National University (2021.09~2023.02)</h4>
+</div>
+
+<div align="center">
   <br>
   
-  <h4> Git Stats </h4>
+  <h3> Git Stats </h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=darcula)
 
