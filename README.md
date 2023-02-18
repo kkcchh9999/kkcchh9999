@@ -11,7 +11,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=darcula)
 
   <br>  
-  <h3> Most Used </h3>
+  <h1> Most Used </h1>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)]
 
