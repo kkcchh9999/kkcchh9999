@@ -16,7 +16,13 @@
   <h3> Skils </h3>
   <img src="https://img.shields.io/badge/Python-CC6666?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-FF9988?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-FF8899?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FF8877?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-FF7788?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Ubuntu-FF7777?style=for-the-badge&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/CentOS-FF7770?style=for-the-badge&logo=CentOS&logoColor=white">
+  
+  
   
   <h3> Most Used </h3>
     
