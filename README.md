@@ -22,7 +22,7 @@
   <br>  
   <h3> Most Used </h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)
 
 </div>
 
