@@ -11,7 +11,7 @@
   <h4>Noslab, Changwon National University (2021.09~2023.02)</h4>
   <br>
   <h3> Current Learning </h3>
-  <img src="https://img.shields.io/badge/Python-CC6666?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-CC6666?style=for-the-badge&logo=python&logoColor=FF9999">
   <br>
   <h3> Skils </h3>
   <img src="https://img.shields.io/badge/Python-CC6666?style=for-the-badge&logo=python&logoColor=white">
