@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Kotlin-FF7788?style=for-the-badge&logo=Kotlin&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Ubuntu-0099CC?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/CentOS-0088CC?style=for-the-badge&logo=CentOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-0077CC?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/CentOS-0099FF?style=for-the-badge&logo=CentOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-0099EE?style=for-the-badge&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Ceph-0099DD?style=for-the-badge&logo=Ceph&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-0088DD?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <br>
