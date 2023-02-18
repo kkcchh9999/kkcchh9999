@@ -4,7 +4,7 @@
 
   <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=darcula)]
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=darcula)
 
   <br>  
   
