@@ -1,8 +1,14 @@
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Cheolhyeon's%20GitHub&fontSize=60)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Cheolhyeon's%20GitHub&fontSize=60)
+  <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=darcula)](https://github.com/kkcchh9999/github-readme-stats) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=darcula)](https://github.com/kkcchh9999/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)](https://github.com/kkcchh9999/github-readme-stats)
+  <br>  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)](https://github.com/kkcchh9999/github-readme-stats)
+
+</div>
 
 
 <!--
