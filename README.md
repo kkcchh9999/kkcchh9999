@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Kotlin-FF7788?style=for-the-badge&logo=Kotlin&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Ubuntu-FF7777?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/CentOS-FF7770?style=for-the-badge&logo=CentOS&logoColor=white">
+  <img src="https://img.shields.io/badge/CentOS-FF7766?style=for-the-badge&logo=CentOS&logoColor=white">
   
   
   
