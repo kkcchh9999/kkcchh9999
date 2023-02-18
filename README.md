@@ -4,7 +4,7 @@
 
   <br>
   <h1>✨ CHEOLHYEON KWON ✨</h1>
-  <a href="https://www.instagram.com/c208_h" target="_blank"><img src="https://img.shields.io/badge/instagram-FF9999?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/c208_h" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://kkcchh9999.github.io" target="_blank"><img src="https://img.shields.io/badge/github-FF9999?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </div>
 
