@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/Java-FF8877?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-FF7788?style=for-the-badge&logo=Kotlin&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Ubuntu-DDEEFF?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/CentOS-DDFFFF?style=for-the-badge&logo=CentOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-CCEEEE?style=for-the-badge&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/Ceph-CCFFEE?style=for-the-badge&logo=Ceph&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-CCEEFF?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-DDEEFF?style=for-the-badge&logo=Ubuntu&logoColor=black">
+  <img src="https://img.shields.io/badge/CentOS-DDFFFF?style=for-the-badge&logo=CentOS&logoColor=black">
+  <img src="https://img.shields.io/badge/Android-CCEEEE?style=for-the-badge&logo=Android&logoColor=black">
+  <img src="https://img.shields.io/badge/Ceph-CCFFEE?style=for-the-badge&logo=Ceph&logoColor=black">
+  <img src="https://img.shields.io/badge/TensorFlow-CCEEFF?style=for-the-badge&logo=TensorFlow&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/Android Studio-FF6677?style=for-the-badge&logo=Android Studio&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ-FF6666?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
