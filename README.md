@@ -3,15 +3,15 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Cheolhyeon's%20GitHub&fontSize=60)
 
   <br>
-  <h3>✨ CHEOLHYEON KWON ✨</h3>
+  <h1>✨ CHEOLHYEON KWON ✨</h1>
   <br>
   
-  <h2> Git Stats </h2>
+  <h4> Git Stats </h4>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=darcula)
 
   <br>  
-  <h1> Most Used </h1>
+  <h3> Most Used </h3>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)]
 
