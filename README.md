@@ -5,7 +5,7 @@
   <br>
   <h1>✨ CHEOLHYEON KWON ✨</h1>
   <a href="https://www.instagram.com/c208_h" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://kkcchh9999.github.io" target="_blank"><img src="https://img.shields.io/badge/github-FF9999?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
+  <a href="https://kkcchh9999.github.io" target="_blank"><img src="https://img.shields.io/badge/github-FF8888?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <h3>Thanks for visiting</h3>
   <h4>Computer Engineering, ChangWon National University (2017.03~2023.02)</h4>
   <h4>Noslab, Changwon National University (2021.09~2023.02)</h4>
