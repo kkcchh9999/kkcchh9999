@@ -32,11 +32,11 @@
   
   <h3> Most Used </h3>
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=omni)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=dracula)
     
   <h3> Git Stats </h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=omni)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkcchh9999&show_icons=true&theme=dracula)
 
   
 
