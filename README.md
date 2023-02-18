@@ -5,16 +5,16 @@
   <br>
   <h1>✨ CHEOLHYEON KWON ✨</h1>
   <a href="https://www.instagram.com/c208_h" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://kkcchh9999.github.io" target="_blank"><img src="https://img.shields.io/badge/github-FF9999?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="https://kkcchh9999.github.io" target="_blank"><img src="https://img.shields.io/badge/github-FF9999?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
   <h3>Thanks for visiting</h3>
   <h4>Computer Engineering, ChangWon National University (2017.03~2023.02)</h4>
   <h4>Noslab, Changwon National University (2021.09~2023.02)</h4>
   <br>
-  <br>
   <h3> Current Learning </h3>
   <img src="https://img.shields.io/badge/python-CC6666?style=for-the-badge&logo=python&logoColor=white">
+  <br>
   <h3> Skils </h3>
-
+  
   <h3> Most Used </h3>
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkcchh9999&show_icons=true&theme=darcula)
