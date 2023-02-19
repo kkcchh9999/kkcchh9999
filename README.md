@@ -10,7 +10,7 @@
   <h4> :mortar_board: Computer Engineering, ChangWon National University (2017.03~2023.02)</h4>
   <h4> :mortar_board: Noslab, Changwon National University (2021.09~2023.02)</h4>
   <br>
-  <h3> 📚 Current Learning </h3>
+  <h3> 📚 Now Learning </h3>
   <img src="https://img.shields.io/badge/Python-CC6666?style=for-the-badge&logo=python&logoColor=white">
   <br>
   <h3> 💎 Skils 💎 </h3>
